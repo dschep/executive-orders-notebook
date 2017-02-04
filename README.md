@@ -5,8 +5,8 @@
 I wanted to compare how many Executive Orders Trump is signing compared to recent previous
 presidents.
 
-## Plots as of 2017-02-04
-### First days in office
+## Plots (as of 2017-02-04)
+### First 2 weeks in office
 ![First Days](plots/first-days.png)
 
 ### Full Term
